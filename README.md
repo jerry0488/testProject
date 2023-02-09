@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # dbproject-GetTogether
 대학생 팀 프로젝트를 위한 팀원 매칭 시스템
 
@@ -13,3 +14,7 @@
 
 
 기타 정보들은 [wiki](https://github.com/syeonbot/dbproject-GetTogether/wiki)로~
+=======
+# testProject
+test
+>>>>>>> dfad466116c59d88a2e994fed603a89a0ed8cdc6
